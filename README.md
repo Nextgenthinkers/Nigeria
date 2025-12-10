@@ -10,3 +10,4 @@ Nigeria 11+
 * Fractions basics ppt(https://www.slideshare.net/slideshow/fractions-for-year-3-29661230/29661230#1)
 * Types of Fractions ppt(https://www.slideshare.net/slideshow/class-v-maths-fractions/113888596)
 * Liveworksheet on types of fractions(https://www.liveworksheets.com/worksheet/en/mathematics/7238237)
+* equivalent fraction, adding, subtracting, converting, file uploaded
