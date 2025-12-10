@@ -17,3 +17,5 @@ Nigeria 11+
 * converting mixed to improper(https://www.liveworksheets.com/worksheet/en/math/1834133)
 * converting mixed to improper(https://www.liveworksheets.com/worksheet/en/math/1684837)
 * converting mixed to improper(https://www.liveworksheets.com/worksheet/en/math-fractions-and-decimals/891233)
+* converting improper to mixed(https://www.liveworksheets.com/worksheet/en/math-fractions-and-decimals/618185)
+* converting improper to mixed (https://www.liveworksheets.com/worksheet/en/mathematics/139126)
