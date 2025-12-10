@@ -11,3 +11,9 @@ Nigeria 11+
 * Types of Fractions ppt(https://www.slideshare.net/slideshow/class-v-maths-fractions/113888596)
 * Liveworksheet on types of fractions(https://www.liveworksheets.com/worksheet/en/mathematics/7238237)
 * equivalent fraction, adding, subtracting, converting, file uploaded
+* Liveworksheet on equivalent fractions(https://www.liveworksheets.com/worksheet/en/math-fractions-and-decimals/407150)
+* Liveworksheet on equivalent fractions(https://www.liveworksheets.com/worksheet/en/math-fractions-and-decimals/717206)
+* Liveworksheet on equivalent fractions(https://www.liveworksheets.com/worksheet/en/math/1367448)
+* converting mixed to improper(https://www.liveworksheets.com/worksheet/en/math/1834133)
+* converting mixed to improper(https://www.liveworksheets.com/worksheet/en/math/1684837)
+* converting mixed to improper(https://www.liveworksheets.com/worksheet/en/math-fractions-and-decimals/891233)
