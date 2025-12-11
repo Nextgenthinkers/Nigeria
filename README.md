@@ -26,3 +26,8 @@ Nigeria 11+
 * liveworksheet on multiplication of fractions(https://www.liveworksheets.com/worksheet/en/math/6817364)
 * liveworksheet on division of fractions(https://www.liveworksheets.com/worksheet/en/math/661072)
 * worksheet on Fraction of amount(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2013/02/fraction-of-an-amount-pdf2.pdf)
+* worksheet on word problems corbettmath(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2023/09/Fraction-of-Amounts.pdf)
+* Fraction revision fraction corbettmath(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2013/02/fractions-pdf.pdf)
+* Fraction multi(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2023/02/Multiplying-and-Dividing-Fractions.pdf)
+* fraction finding price(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2023/09/Fractions-Finding-Original.pdf)
+* adding fractions(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/01/Adding-Fractions.pdf)
