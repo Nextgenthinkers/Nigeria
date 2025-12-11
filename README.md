@@ -25,3 +25,4 @@ Nigeria 11+
 * Comparing fractions(https://www.liveworksheets.com/worksheet/en/mathematics-dlp/1379777)
 * liveworksheet on multiplication of fractions(https://www.liveworksheets.com/worksheet/en/math/6817364)
 * liveworksheet on division of fractions(https://www.liveworksheets.com/worksheet/en/math/661072)
+* worksheet on Fraction of amount(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2013/02/fraction-of-an-amount-pdf2.pdf)
