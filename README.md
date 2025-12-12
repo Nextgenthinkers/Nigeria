@@ -32,3 +32,8 @@ Nigeria 11+
 * fraction finding price(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2023/09/Fractions-Finding-Original.pdf)
 * adding fractions(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/01/Adding-Fractions.pdf)
 * Decimal ppt(https://www.slideshare.net/slideshow/decimals-250314131/250314131)
+* worksheet dec to  fra(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/07/Decimals-Fractions.pdf)
+* Dec liveworksheet(https://www.liveworksheets.com/worksheet/en/math/167036)
+* Dec worksheet(https://www.liveworksheets.com/worksheet/en/math/1618612)
+* worksheet on dec  to fractions(https://www.liveworksheets.com/worksheet/en/math/388549)
+* Adding and subtracting decimals(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/11/Decimals-Addition-Subtraction.pdf)
