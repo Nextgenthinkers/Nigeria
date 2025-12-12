@@ -31,3 +31,4 @@ Nigeria 11+
 * Fraction multi(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2023/02/Multiplying-and-Dividing-Fractions.pdf)
 * fraction finding price(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2023/09/Fractions-Finding-Original.pdf)
 * adding fractions(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/01/Adding-Fractions.pdf)
+* Decimal ppt(https://www.slideshare.net/slideshow/decimals-250314131/250314131)
