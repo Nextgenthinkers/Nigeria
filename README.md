@@ -37,3 +37,5 @@ Nigeria 11+
 * Dec worksheet(https://www.liveworksheets.com/worksheet/en/math/1618612)
 * worksheet on dec  to fractions(https://www.liveworksheets.com/worksheet/en/math/388549)
 * Adding and subtracting decimals(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/11/Decimals-Addition-Subtraction.pdf)
+* Percentage word problems(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/11/Percentage-of-Amounts-Non-Calculator.pdf)
+* word problems percentage(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corbettmaths.com/wp-content/uploads/2024/11/Percentages-Calculator.pdf)
